@@ -1,1 +1,5 @@
-# DataEngineer-1st-sem
+# SECI1013-Discrete-Structure ⌛
+
+## Reflection for each assignments 📞
+
+What I learned from this course is the basic fundamental knowledge of different types of mathematical languages that can be implemented into the different types of world-problems. I learned about how to apply the concept of Euler cycles, which is used to help design efficient paths for services like garbage pickup, snow plowing, and package delivery, ensuring all streets/edges are covered without repeating routes, saving time and fuel. Other than that, I also learned about permutations and combinations, which are used in a lot of the world’s problems, like setting up passwords or making different types of arrangements of seating in different settings. Therefore, from this course, discrete mathematics serves as an invisible platform behind most modern systems, transforming logic into concrete results. Other than solving equations, I realized that this field teaches a specific type of structured thinking that allows me to break down difficult real-world issues into manageable, logical parts. Therefore, I as a student must master this course in order for me to apply this knowledge in future career-wise problems.
